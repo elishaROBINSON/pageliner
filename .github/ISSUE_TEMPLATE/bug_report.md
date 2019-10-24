@@ -1,16 +1,13 @@
 ---
-name: bug report
-about: a standard template to follow when creating bug reports
+name: Bug Report
+About: a standard template to follow when creating bug reports
 title: ''
 labels: bug
 assignees: ''
-
 ---
-
-
 **Bug description**
 
-A short description of the bug 
+A short description of the bug.
 
 **Expected behavior**
 
@@ -23,12 +20,12 @@ Steps to reproduce the bug.
 **Environment**
 
 Information about the environment 
-- OS Name / Version - mac / linux / window and the version 
-- CHROME Version - the version of the chrome browser
-- WEBSITE - the website in which the bug occured
-- EXTENSION Version - the version number of the extension
+- OS Name / Version - mac / linux / window and the version.
+- CHROME Version - the version of the chrome browser.
+- WEBSITE - the website in which the bug occured.
+- EXTENSION Version - the version number of the extension.
 
-**additional information**
+**Additional information**
 
 Additional information about the bug. ie previous issues.
 
