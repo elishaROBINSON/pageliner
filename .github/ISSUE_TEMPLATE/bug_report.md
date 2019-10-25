@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-About: a standard template to follow when creating bug reports
+about: A standard template to follow when creating bug reports
 title: ''
 labels: bug
 assignees: ''
